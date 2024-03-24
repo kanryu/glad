@@ -11,6 +11,12 @@ Check out the [webservice for glad2](https://glad.sh) to generate the files you 
 
 Some languages are only available in the [glad1 generator](https://glad.dav1d.de).
 
+## Check
+
+This source tree has some example code modified for my purposes.
+
+I've been looking for a simple example program that works well with the EGL/X11 combination for a long time and finally found the glad project. egl_x11 was originally a combination of EGL/OpenGL ES, but he rewrote it to work with EGL/OpenGL 2.1.
+
 ## Examples
 
 ```c
